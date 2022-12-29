@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Projeto-Integrador", "API-Projeto-Integrador\API-Projeto-Integrador.csproj", "{CE595A99-B195-4A48-83B2-0174D484F1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib-API-Projeto-Integrador", "Lib-API-Projeto-Integrador\Lib-API-Projeto-Integrador.csproj", "{5EB5C60D-40A4-4721-B6AD-A02359C175D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE595A99-B195-4A48-83B2-0174D484F1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE595A99-B195-4A48-83B2-0174D484F1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE595A99-B195-4A48-83B2-0174D484F1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE595A99-B195-4A48-83B2-0174D484F1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB5C60D-40A4-4721-B6AD-A02359C175D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB5C60D-40A4-4721-B6AD-A02359C175D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB5C60D-40A4-4721-B6AD-A02359C175D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB5C60D-40A4-4721-B6AD-A02359C175D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD69120-3706-4A64-9F83-E19367E84BFB}
+	EndGlobalSection
+EndGlobal
