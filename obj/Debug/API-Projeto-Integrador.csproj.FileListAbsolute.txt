@@ -1,0 +1,573 @@
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\obj\Debug\API-Projeto-Integrador.csprojAssemblyReference.cache
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\obj\Debug\API-Projeto-Integrador.csproj.CoreCompileInputs.cache
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\API-Projeto-Integrador.dll.config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\API-Projeto-Integrador.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\API-Projeto-Integrador.pdb
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc (2).exe
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc (2).rsp
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc.exe
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc.exe (2).config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc.exe.config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc.rsp
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi (2).exe
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi (2).rsp
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi.exe
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi.exe (2).config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi.exe.config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi.rsp
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.Scripting (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CSharp.Core (2).targets
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.Managed.Core (2).targets
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.VisualBasic.Core (2).targets
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.AppContext (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.AppContext.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Collections.Immutable (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Console (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Console.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Diagnostics.FileVersionInfo (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Diagnostics.StackTrace (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Compression (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Compression.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.FileSystem (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.FileSystem.Primitives (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Pipes (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Pipes.AccessControl (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Reflection.Metadata (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.AccessControl (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Claims (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Claims.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Algorithms (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Encoding (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Primitives (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.X509Certificates (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Principal.Windows (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Text.Encoding.CodePages (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.ValueTuple (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.ValueTuple.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.ReaderWriter (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XmlDocument (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XPath (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XPath.XDocument (2).dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc (2).exe
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc (2).rsp
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc.exe
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc.exe (2).config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc.exe.config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc.rsp
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\VBCSCompiler (2).exe
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\VBCSCompiler.exe
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\VBCSCompiler.exe (2).config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Win32.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\netstandard.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.AppContext.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Collections.Concurrent.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Collections.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Collections.NonGeneric.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Collections.Specialized.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Console.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Data.Common.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Contracts.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Debug.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Process.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.StackTrace.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Tools.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.TraceSource.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Tracing.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Drawing.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Dynamic.Runtime.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Globalization.Calendars.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Globalization.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Globalization.Extensions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.Compression.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.Compression.ZipFile.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.FileSystem.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.IsolatedStorage.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.Pipes.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Linq.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Linq.Expressions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Linq.Parallel.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Linq.Queryable.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Http.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.NameResolution.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.NetworkInformation.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Ping.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Requests.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Security.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Sockets.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.WebHeaderCollection.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.WebSockets.Client.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.WebSockets.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ObjectModel.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Reflection.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Reflection.Extensions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Reflection.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Resources.Reader.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Resources.ResourceManager.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Resources.Writer.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Extensions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Handles.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.InteropServices.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Numerics.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Serialization.Json.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Claims.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.Csp.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Principal.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.SecureString.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.Encoding.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.Encoding.Extensions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.RegularExpressions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Overlapped.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Tasks.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Thread.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.ThreadPool.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Timer.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ValueTuple.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.ReaderWriter.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XDocument.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XmlDocument.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XmlSerializer.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XPath.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XPath.XDocument.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Antlr3.Runtime.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Dapper.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Lib-API-Projeto-Integrador.exe
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Options.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Newtonsoft.Json.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Buffers.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.Annotations.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Memory.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Http.Formatting.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Numerics.Vectors.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.Encodings.Web.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Cors.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Helpers.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.Cors.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.WebHost.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Mvc.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Optimization.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Razor.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.Razor.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\WebGrease.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Lib-API-Projeto-Integrador.pdb
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Lib-API-Projeto-Integrador.exe.config
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Dapper.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Options.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Buffers.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Memory.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Http.Formatting.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Numerics.Vectors.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.Encodings.Web.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.Cors.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Newtonsoft.Json.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Helpers.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.WebHost.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Mvc.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Optimization.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Razor.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.Razor.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Antlr3.Runtime.pdb
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\obj\Debug\API-Projeto-Integrador.csproj.CopyComplete
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\obj\Debug\API-Projeto-Integrador.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\obj\Debug\API-Projeto-Integrador.pdb
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\rikelme.gcarneiro\source\repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\obj\Debug\API-Projeto-Integrador.csprojAssemblyReference.cache
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\obj\Debug\API-Projeto-Integrador.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\obj\Debug\API-Projeto-Integrador.pdb
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\API-Projeto-Integrador.dll.config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\API-Projeto-Integrador.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\API-Projeto-Integrador.pdb
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc (2).exe
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc (2).rsp
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc.exe
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc.exe (2).config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc.exe.config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csc.rsp
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi (2).exe
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi (2).rsp
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi.exe
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi.exe (2).config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi.exe.config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\csi.rsp
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.Scripting (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CSharp.Core (2).targets
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.DiaSymReader.Native.amd64 (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.DiaSymReader.Native.x86 (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.Managed.Core (2).targets
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.VisualBasic.Core (2).targets
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.AppContext (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.AppContext.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Collections.Immutable (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Console (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Console.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Diagnostics.FileVersionInfo (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Diagnostics.StackTrace (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Compression (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.FileSystem (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.FileSystem.Primitives (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Pipes (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Pipes.AccessControl (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Reflection.Metadata (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.AccessControl (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Claims (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Algorithms (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Encoding (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Primitives (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.X509Certificates (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Principal.Windows (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Text.Encoding.CodePages (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.ValueTuple (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.ReaderWriter (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XmlDocument (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XPath (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XPath.XDocument (2).dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc (2).exe
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc (2).rsp
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc.exe
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc.exe (2).config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc.exe.config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\vbc.rsp
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\VBCSCompiler (2).exe
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\VBCSCompiler.exe (2).config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\netstandard.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.AppContext.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Collections.Concurrent.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Collections.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Collections.NonGeneric.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Collections.Specialized.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Console.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Data.Common.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Contracts.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Debug.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Process.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Tools.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.Tracing.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Drawing.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Dynamic.Runtime.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Globalization.Calendars.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Globalization.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Globalization.Extensions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.Compression.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.FileSystem.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.IsolatedStorage.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.Pipes.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Linq.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Linq.Expressions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Linq.Parallel.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Linq.Queryable.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Http.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.NameResolution.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.NetworkInformation.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Ping.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Requests.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Security.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Sockets.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.WebSockets.Client.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.WebSockets.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ObjectModel.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Reflection.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Reflection.Extensions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Reflection.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Resources.Reader.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Resources.ResourceManager.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Resources.Writer.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Extensions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Handles.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.InteropServices.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Numerics.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Claims.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.Principal.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Security.SecureString.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.Encoding.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.RegularExpressions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Overlapped.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Tasks.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Thread.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.ThreadPool.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Threading.Timer.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ValueTuple.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.ReaderWriter.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XDocument.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XmlDocument.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XmlSerializer.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XPath.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Antlr3.Runtime.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Dapper.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Lib-API-Projeto-Integrador.exe
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Options.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Newtonsoft.Json.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Buffers.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.ComponentModel.Annotations.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Memory.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Http.Formatting.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Numerics.Vectors.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.Encodings.Web.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Cors.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Helpers.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.Cors.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.WebHost.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Mvc.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Optimization.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Razor.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\WebGrease.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Lib-API-Projeto-Integrador.pdb
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Lib-API-Projeto-Integrador.exe.config
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Dapper.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Options.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Buffers.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Memory.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Net.Http.Formatting.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Numerics.Vectors.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Text.Encodings.Web.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.Cors.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Newtonsoft.Json.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Helpers.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Http.WebHost.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Mvc.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Optimization.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.Razor.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Antlr3.Runtime.pdb
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ryuuzaki\Source\Repos\API-Projeto-Integrador\API-Projeto-Integrador\obj\Debug\API-Projeto-Integrador.csproj.CopyComplete
